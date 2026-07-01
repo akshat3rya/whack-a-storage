@@ -1,5 +1,4 @@
-# Distributed P2P Database
-
+# Whack-A-Storage
 This project is a distributed file storage system implemented in Go. It combines a content-addressable storage (CAS) design with a peer-to-peer (P2P) networking layer to enable decentralized file storage and retrieval. Files are encrypted using AES-CTR mode before being transmitted over the network, ensuring end-to-end security.
 
 ## Overview

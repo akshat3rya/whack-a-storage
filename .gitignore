@@ -1,1 +1,4 @@
 bin
+:3000_network/
+:5000_network/
+:7000_network/
